@@ -1,0 +1,38 @@
+.homeHeading {
+    background-color: #d4d4d4;
+    color: black;
+    padding: 1em;
+    margin: 1em 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.9em;
+}
+
+.backColor {
+    background-color: #E8AE1A;
+    padding: 1em;
+}
+
+.center-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.backColor2 {
+    background-color: #01253D;
+    color: white;
+    padding: 1em;
+    margin-top: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.moveDown {
+    margin-bottom: 1em;
+}
+
+.textLink {
+    color: white;
+}
+
+.textLink:hover {
+    color: red;
+}

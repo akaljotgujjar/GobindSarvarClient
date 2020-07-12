@@ -1,0 +1,27 @@
+.RecHeading {
+    margin: 1em 0;
+    color: #E8AE1A;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.listItem {
+    list-style: none;
+}
+
+.indItem {
+    margin: 1.2em;
+    padding: 1em;
+    color: #8B0000;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+}
+
+.indItem:hover {
+    background-color: rgb(245, 244, 244);
+}
+
+.containBox {
+    background-color: #CCC;
+}
